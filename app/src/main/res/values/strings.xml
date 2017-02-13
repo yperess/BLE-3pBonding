@@ -1,0 +1,14 @@
+<!-- Copyright (c) 2017 Magicleap. All right reserved. -->
+
+<resources>
+    <string name="app_name">BleBindSample</string>
+    <string name="advertise">advertise</string>
+
+    <string name="state_idle">IDLE</string>
+    <string name="state_disabled">Bluetooth Disabled</string>
+    <string name="state_initializing">Initializing BLE advertisement…</string>
+    <string name="state_advertising">Advertising as %1$s</string>
+    <string name="state_connected">CONNECTED</string>
+    <string name="state_read_unbonded">Received UN-bonded readrequest</string>
+    <string name="state_read_bonded">Received bonded read</string>
+</resources>
